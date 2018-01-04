@@ -1,0 +1,6 @@
+{
+    "target": "http://172.16.66.5:8765/api/iosr-project/iosr/app",
+    "locusts": [
+        "HelloWorldLocust"
+    ]
+}
